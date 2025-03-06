@@ -2,6 +2,8 @@
 ![image](https://github.com/user-attachments/assets/bdc2dad3-0f59-4ae5-ac8f-298181d5f20b)
 ## Report View
 https://app.powerbi.com/view?r=eyJrIjoiNjJhNWU5MTItODFkOC00NjFiLWJmYmQtOTI3MTY4N2Y2OWMxIiwidCI6IjU1YmQ5ZTdkLTdkMWEtNGZlNy1hNmZmLTJhOWY0YzdkZjAxYSJ9
+## Report webpage View
+https://atliq-hospital-analysis-wf50o1d.gamma.site/
 ## Project Overview
 This project utilizes comprehensive datasets from the hospitality industry, providing detailed information on hotel properties, room categories, bookings, and guest interactions. The data is meticulously cleaned and transformed to ensure accuracy and relevance.
 ![image](https://github.com/user-attachments/assets/35ffb171-aa20-4ac8-a3f9-afb11ca1a140)
